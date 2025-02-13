@@ -209,5 +209,3 @@ then add these + more
 0.0.0.0 ads.youtube.com
 ```
 Save -> Exit
-
-e you guys enjoyed!
