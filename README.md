@@ -1,5 +1,5 @@
 # HardenUbuntu
-## As found on HackForums
+## As found on HackForums by LowKey
 #### 1: Update & Upgrade Like It’s a Religion
 
 Old software = vulnerable software, so "PLEASE DADDY HACK ME" is written all over it.
